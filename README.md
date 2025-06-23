@@ -5,7 +5,7 @@ This interactive visualization dashboard enables exploration of high-dimensional
 
 ## Dataset
 
-The dataset `mammals.csv` (available on OLAT) contains 60 mammal species with the following 11 attributes:
+The dataset `mammals.csv` contains 60 mammal species with the following 11 attributes:
 
 | Column        | Description |
 |---------------|-------------|
